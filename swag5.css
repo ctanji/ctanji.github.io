@@ -39,6 +39,7 @@
 .banner {
 	width: 100%;
 	height: 350%;
+	background-color: blueviolet;
 	background-image:  url('/ctanji.github.io/otomflip.github.io/images/background.png'),linear-gradient(rgba(0,0,0,0.95),rgba(0,0,0,0.95)),
 	url('/ctanji.github.io/otomflip.github.io/images/background.png');
 
