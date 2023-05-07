@@ -39,8 +39,8 @@
 .banner {
 	width: 100%;
 	height: 350%;
-	background-image:  url('/Users/Christian/Documents/GitHub/otomflip/images/background.png'),linear-gradient(rgba(0,0,0,0.95),rgba(0,0,0,0.95)),
-	url('/Users/Christian/Documents/GitHub/otomflip/images/background.png');
+	background-image:  url('/localhost:4000/Christian/Documents/GitHub/otomflip/images/background.png'),linear-gradient(rgba(0,0,0,0.95),rgba(0,0,0,0.95)),
+	url('/localhost:4000/Christian/Documents/GitHub/otomflip/images/background.png');
 
 	background-size: cover, cover;
 
